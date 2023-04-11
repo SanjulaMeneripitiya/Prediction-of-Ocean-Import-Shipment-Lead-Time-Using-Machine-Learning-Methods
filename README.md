@@ -11,4 +11,4 @@ In this project, I analyzed import shipment data to predict lead time for sea sh
 
 By using 'ydata_profiling' I have preformed the EDA for import data.
 
-![alt text](https://github.com/SanjulaMeneripitiya/Prediction-of-Ocean-Import-Shipment-Lead-Time-Using-Machine-Learning-Methods/blob/main/Exploratory%20Analysis.html)
+![alt text](https://sanjulameneripitiya.github.io/Prediction-of-Ocean-Import-Shipment-Lead-Time-Using-Machine-Learning-Methods/Exploratory%20Analysis.html)
